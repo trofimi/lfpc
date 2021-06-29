@@ -1,0 +1,7 @@
+S->BfD
+B->Bc
+B->D
+D->Ag
+D->A
+A->d
+A->c
